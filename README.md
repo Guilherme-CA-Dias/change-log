@@ -138,16 +138,4 @@ See `.env.example` for all required environment variables.
 
 ## License
 
-[Your License Here]
-```
 
-
-This README:
-1. Provides clear setup instructions
-2. Documents all features
-3. Explains the environment configuration
-4. Includes troubleshooting tips
-5. Shows the project structure
-6. Includes development guidelines
-
-Let me know if you'd like to add or modify any sections!
